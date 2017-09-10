@@ -19,7 +19,7 @@ public class Stringi {
 				System.out.println(test2);
 				
 		kursanci.substring(6);
-				
+
 	}
 	
 	
