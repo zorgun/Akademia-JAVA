@@ -1,4 +1,4 @@
-package pl.atena.edu.akademia1;
+/*package pl.atena.edu.akademia1;
 
 public class PoleKola {
 	public static void main(String[] args) {
@@ -15,4 +15,4 @@ public class PoleKola {
 		
 		
 	}
-}
+}*/

@@ -1,4 +1,4 @@
-package pl.atena.edu.akademia1;
+/*package pl.atena.edu.akademia1;
 
 import java.util.Scanner;
 
@@ -22,4 +22,4 @@ public class PoleKola2 {
 		System.out.println(result);
 
 	}
-}
+}*/
